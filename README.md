@@ -1,5 +1,4 @@
-# Restaurant_app
-A full-stack Restaurant Management Web Application built using modern web technologies for online food ordering, menu management, and order tracking.
+
 # 🍽️ Restaurant App
 
 A modern Full Stack Restaurant Management Web Application that allows users to browse food items, place orders, and manage restaurant operations efficiently.
