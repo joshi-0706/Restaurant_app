@@ -99,7 +99,7 @@ npm start
 
 ## 👩‍💻 Author
 
-**Priyanka Munasa**
+**joshi**
 
 GitHub:
 https://github.com/joshi-0706
